@@ -26,7 +26,3 @@ A repository for future Engine-OS.
 - xfce plugins
 - yay
 - zsh-fast-syntax
-<<<<<<< HEAD
-
-=======
->>>>>>> cb301447014e3ea0c5b765210139744beb7278ea
